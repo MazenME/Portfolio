@@ -21,7 +21,7 @@ const WritingSection: React.FC = () => {
               <div className="md:w-1/3 mb-6 md:mb-0">
                 {/* <div className="w-full h-48 bg-gradient-to-br from-dark to-pink rounded-lg shadow-lg flex items-center justify-center emoji-bounce"> */}
                 <img
-                  src="../../public/Novel.png"
+                  src="/assets/Novel.png"
                   alt="Novel Cover"
                   className="sm:h-96"
                 />

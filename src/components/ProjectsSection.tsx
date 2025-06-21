@@ -67,7 +67,7 @@ const projects = [
   {
     title: "Movies Explorer",
     image:
-      "../../public/image0.png",
+      "/assets/image0.png",
     stack: "React, Bootstrap, Axios, Auth",
     tag: "Featured",
     Link:"https://mazen-me.github.io/Movies/#/home/Home",
@@ -76,7 +76,7 @@ const projects = [
   {
     title: "Todo List",
     image:
-      "../../public/image1.png",
+      "/assets/image1.png",
     stack: "React.js, TypeScript, Tailwind CSS, Strapi",
     tag: "Open Source",
     Link:"https://github.com/MazenME/TodoList",
@@ -85,7 +85,7 @@ const projects = [
   {
     title: "Products Listing",
     image:
-      "../../public/image2.png",
+      "/assets/public/image2.png",
     stack: "React, Recoil, Tailwind Css, Pagination",
     tag: "Task Project",
     borderColor: "teal",
