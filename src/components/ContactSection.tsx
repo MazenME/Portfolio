@@ -27,10 +27,10 @@ const ContactSection: React.FC = () => {
                 <div>
                   <h4 className="font-bold">Email</h4>
                   <a
-                    href="mailto:mazen.emad@example.com"
+                    href="mailto:mazenemad099@gmail.com"
                     className="text-gray hover:text-accent transition"
                   >
-                    mazen.emad@example.com
+                   mazenemad099@gmail.com
                   </a>
                 </div>
               </div>
@@ -81,7 +81,7 @@ const ContactSection: React.FC = () => {
                     </a>
 
                     <a
-                      href="www.linkedin.com/in/mazen-emad-804759259"
+                      href="https://www.linkedin.com/in/mazen-emad-804759259"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="w-12 h-12 bg-blue-500/10 rounded-full flex items-center justify-center hover:bg-blue-500/20 transition text-blue-500 border border-blue-500/20 hover:scale-110 emoji-float animation-delay-2000"
