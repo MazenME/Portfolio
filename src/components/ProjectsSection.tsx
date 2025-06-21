@@ -85,7 +85,7 @@ const projects = [
   {
     title: "Products Listing",
     image:
-      "/assets/public/image2.png",
+      "/assets/image2.png",
     stack: "React, Recoil, Tailwind Css, Pagination",
     tag: "Task Project",
     borderColor: "teal",

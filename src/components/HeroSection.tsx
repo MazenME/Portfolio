@@ -41,7 +41,7 @@ export default function HeroSection() {
               <div className="relative z-10 w-full h-full bg-slate rounded-3xl shadow-2xl flex items-center justify-center overflow-hidden border-2 border-accent/30">
                 <div className="text-center p-6">
                   <div className="w-32 h-32 md:w-40 md:h-40 bg-gradient-to-br from-accent to-pink rounded-full flex items-center justify-center mx-auto mb-6 text-white text-5xl font-bold border-4 border-light/20 shadow-inner">
-                    <img src="../../public/ChatGPT Image Jun 19, 2025, 01_06_01 AM.png" alt="Me" className="rounded-full "/>
+                    <img src="/assets/ChatGPT Image Jun 19, 2025, 01_06_01 AM.png" alt="Me" className="rounded-full "/>
                   </div>
                   <h3 className="text-xl font-bold font-display">Mazen Emad</h3>
                   <p className="text-gray">Developer & Writer</p>
