@@ -5,7 +5,7 @@ export default function HeroSection() {
       <div className="container mx-auto px-6">
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 mb-12 md:mb-0">
-            <p className="text-accent font-mono mb-4">
+            <p className="text-accent font-mono mb-4 sm:mt-2">
               Hi there! <span className="emoji-wiggle">👋</span>
             </p>
             <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight font-display">
