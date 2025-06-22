@@ -43,7 +43,7 @@ const ContactSection: React.FC = () => {
                   <h4 className="font-bold mb-3">Social Media</h4>
                   <div className="flex flex-wrap gap-4">
                     <a
-                      href="https://wa.me/01093601358"
+                      href="https://wa.me/201093601358"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="w-12 h-12 bg-green-500/10 rounded-full flex items-center justify-center hover:bg-green-500/20 transition text-green-500 border border-green-500/20 hover:scale-110 emoji-float"
