@@ -62,8 +62,16 @@ const ProjectsSection: React.FC = () => {
 
 export default ProjectsSection;
 
-// Dummy project data (you can move it to JSON or API later)
 const projects = [
+  {
+    title: "VSCODE Clone",
+    image:
+      "/image.png",
+    stack: "React/Typescript, Redux Toolkit, Monaco editor/themes, HeadlessUi, Tailwind CSS, UUID",
+    tag: "Featured",
+    Link:"https://vscode-clone-web.vercel.app/",
+    borderColor: "accent",
+  },
   {
     title: "Movies Explorer",
     image:
